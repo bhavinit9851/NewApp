@@ -2,7 +2,6 @@
 include("config_user.php");
 
 //    session_start();
-     $_SESSION[''];
 
 ?>
 
